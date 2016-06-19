@@ -53,3 +53,10 @@ require_once 'inc/get_link_menus.php';
  */
 
 require_once 'inc/configure.php';
+
+
+/**
+ * page options
+ */
+
+require_once 'inc/page-options.php';
